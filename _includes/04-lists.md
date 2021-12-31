@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- GOOGLE Assistant
+- Siri
+- Alexa
+   * By Google
+   * By Apple
+   * By Amazon
